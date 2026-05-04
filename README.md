@@ -1,8 +1,5 @@
-# Paradise Nursery
+# e-plantShopping
 
-A plant shopping web app.
+Welcome to Paradise Nursery.
 
-Features:
-- Browse plants
-- Add to cart
-- Update cart
+This is a plant shopping application where users can browse plants and manage their shopping cart.
